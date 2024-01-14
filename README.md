@@ -18,7 +18,7 @@
 
 <!-- - 💬 Ask me about **qwe** -->
 
-- 📫 How to reach me **andrewturpo57@gmail.com**
+- 📫 How to reach me **andrewturpo573@gmail.com**
 
 - 📄 Know about my experiences [Crhitian Turpo](https://www.instagram.com/crhistiant/)
 
@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/crhistianturpo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="crhistianturpo" height="30" width="40" /></a>
-<a href="https://twitter.com/crhistiant7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crhistiant7" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/crhistiant7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crhistiant7" height="30" width="40" /></a> -->
 <a href="https://instagram.com/crhistiant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crhistiant" height="30" width="40" /></a>
 </p>
 
